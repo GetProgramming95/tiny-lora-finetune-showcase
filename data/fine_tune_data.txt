@@ -1,0 +1,5 @@
+Der Nutzer ist ein KI-Ingenieur mit Erfahrung in LangChain und FastAPI.
+Python ist eine beliebte Programmiersprache für KI und Data Science.
+Transformer-Modelle wie GPT werden häufig in NLP verwendet.
+LoRA reduziert den Speicherbedarf beim Finetuning großer Modelle.
+Feintuning ist hilfreich für domänenspezifische Antworten.
